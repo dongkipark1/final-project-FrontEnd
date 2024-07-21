@@ -16,6 +16,7 @@
 - `Model을 ResponseEntity 응답`
 - `AOP(유효성검사)`
 - `MVVM 패턴을 이용한 Flutter 서버 통신`
+- `JWT`
 
 
 <br>
@@ -74,10 +75,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-green?logo=AndroidStudio&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
 
